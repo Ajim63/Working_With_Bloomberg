@@ -11,3 +11,6 @@ Determine the number of days you want the data from. Bloomberg only allow 180 da
 		
 	days_back = 360
 
+Set the trickers, it worked for currency, stock or index. 
+
+	Trickers = ['USCRWTIC Index', 'EUCRBRDT Index','CORNILNC Index', 'WEATTKHR Index', 'GCFPURGB Index', 'NGUSHHUB BGAP Index', 'JETIGCPR Index' ]
