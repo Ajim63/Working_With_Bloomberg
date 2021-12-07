@@ -26,6 +26,9 @@ Set the trickers, it worked for currency, stock or index.
 **The python program [fx_download.py](fx_download.py) will allow you to collect Daily OIS rate data from Bloomberg**
 **This OIS data is used in our project `Finance Research Letters` Paper [The network structure of overnight index swap rates](https://www.sciencedirect.com/science/article/pii/S1544612321004141)
 
+[Fig](Figures/OIS_10.pdf)
+
+
 
  <p align="center">
   <img width="1000" src="Figures/OIS_10.pdf">
