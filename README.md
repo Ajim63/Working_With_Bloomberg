@@ -27,4 +27,10 @@ Set the trickers, it worked for currency, stock or index.
 **This OIS data is used in our project `Finance Research Letters` Paper [The network structure of overnight index swap rates](https://www.sciencedirect.com/science/article/pii/S1544612321004141)
 
 
-
+ <p align="center">
+  <img width="1000" src="Figures/OIS_10.pdf">
+</p>
+ 
+ <p align="center">
+  <img width="1000" src="Figures/Fig_4_D1_CN_label.pdf">
+</p>
