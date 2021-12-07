@@ -3,8 +3,8 @@
 
 
 
-# Getting-Minute-By-Minute-Data-From-Bloomberg
-#This codes will allow you to collect Intraday data from Bloomberg
+### Getting-Minute-By-Minute-Data-From-Bloomberg
+#The python program [Min_by_Min.py] will allow you to collect Intraday data from Bloomberg
 
 
 Set the intended intra-day period in the "interval = 1" fo minute by minute data. 
@@ -19,3 +19,7 @@ Determine the number of days you want the data from. Bloomberg only allow 180 da
 Set the trickers, it worked for currency, stock or index. 
 
 	Trickers = ['USCRWTIC Index', 'EUCRBRDT Index','CORNILNC Index', 'WEATTKHR Index', 'GCFPURGB Index', 'NGUSHHUB BGAP Index', 'JETIGCPR Index' ]
+
+
+
+### Dow
