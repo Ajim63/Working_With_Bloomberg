@@ -26,7 +26,7 @@ Set the trickers, it worked for currency, stock or index.
 **The python program [fx_download.py](fx_download.py) will allow you to collect Daily OIS rate data from Bloomberg** <br />
 **This OIS data is used in our project `Finance Research Letters` Paper [The network structure of overnight index swap rates](https://www.sciencedirect.com/science/article/pii/S1544612321004141) <br/>
 
-Running this python program will collect the OIS rates for all the currency pairs e.g., 'AUD','CAD','CHF','EUR','GBP','JPY','NOK','NZD','SEK','USD' of last 365 days, and write it into a csv file. 
+Running this python program will collect the OIS rates for all the currency pairs e.g., `AUD`, `CAD`, `CHF` , `EUR`, `GBP`, `JPY`, `NOK`, `NZD`, `SEK`, `USD` of last 365 days, and write it into a csv file. 
 
 
 
