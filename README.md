@@ -31,9 +31,9 @@ Set the trickers, it worked for currency, stock or index.
 
 
  <p align="center">
-  <img width="1000" src="Figures/OIS_10.pdf">
+  <img width="1000" src="Figures/OIS_10.png">
 </p>
  
  <p align="center">
-  <img width="1000" src="Figures/Fig_4_D1_CN_label.pdf">
+  <img width="1000" src="Figures/Fig_4.png">
 </p>
