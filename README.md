@@ -4,7 +4,7 @@
 
 
 ### Getting-Minute-By-Minute-Data-From-Bloomberg
-#The python program [Min_by_Min.py] will allow you to collect Intraday data from Bloomberg
+**The python program [Min_by_Min.py] will allow you to collect Intraday data from Bloomberg**
 
 
 Set the intended intra-day period in the "interval = 1" fo minute by minute data. 
