@@ -29,10 +29,9 @@ Set the trickers, it worked for currency, stock or index.
 Running this python program will collect the OIS rates for all the currency pairs e.g., `AUD`, `CAD`, `CHF` , `EUR`, `GBP`, `JPY`, `NOK`, `NZD`, `SEK`, `USD` of last 365 days, and write it into a csv file. 
 
 
-
-[Fig](Figures/OIS_10.pdf)
-
-
+<br/>
+<br/>
+<br/>
 
  <p align="center">
   <img width="1000" src="Figures/OIS_10.png">
