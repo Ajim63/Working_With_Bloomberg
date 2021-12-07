@@ -1,3 +1,8 @@
+# Working_With_Bloomberg
+**This GitHub repo will provide step-by-step instruction and codes for collecting data from bloomberg lab.** 
+
+
+
 # Getting-Minute-By-Minute-Data-From-Bloomberg
 #This codes will allow you to collect Intraday data from Bloomberg
 
@@ -9,7 +14,7 @@ Set the intended intra-day period in the "interval = 1" fo minute by minute data
 
 Determine the number of days you want the data from. Bloomberg only allow 180 days back for intraday data. 
 		
-	days_back = 360
+	days_back = 180
 
 Set the trickers, it worked for currency, stock or index. 
 
